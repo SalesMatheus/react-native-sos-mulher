@@ -4,7 +4,6 @@ import { StatusBar, useWindowDimensions, Image } from 'react-native';
 
 import { SosButton } from '../../components/SosButton';
 
-// import LogoSvg  from '../../assets/logo_background_gray.svg';
 import PmdfPng  from '../../assets/logopm.png';
 
 
